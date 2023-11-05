@@ -1,8 +1,4 @@
-<header style='text-align:center;'>
-    <a href='https://codember.dev/' target='_blank'
-       style="font-size: 4rem; font-weight: 700;"
-       >Codember 2023</a>
-</header>
+<h1 style='text-align:center; font-size:4rem;'>CODEMBER 2023</h1>
 <br><br>
 
 
