@@ -15,6 +15,8 @@
 ## 🫣🤫🤝
 <br>
 
+# Primera Semana
+
 `Imagen Pixelada` <br>
 - `<my-last-name>` no es lo mismo que `<full-name>`
 - CEO de una empresa que tiene de uno de los framework de **REACT** mas importantes del mundo
@@ -34,6 +36,27 @@
 - Para acceder a nuestro mail hay que ejecutar el comando `$ mail`
 - Para leer el contenido, hay indicarle algo que identifique ese mail
 - Hay que mandar la fecha con el formato correcto!
+
+# Segunda Semana
+
+`Revisar el mail`
+- Ejecutamos el comando `$ mail`
+- Leemos el acertijo del mail 2 (es muy muy, pero muy fácil)
+- Recordá ponerlo en mayúsculas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <details>
