@@ -39,17 +39,35 @@
 <details>
     <summary style='cursor:pointer'>Soluciones</summary> <br>
     <details>
-        <summary style='cursor:pointer'>Imagen Pixelada</summary>
-        <code> $ submit Rauch </code>
-    </details> <br>
+        <summary style='cursor:pointer'>1° Semana</summary> <br>
+        <details>
+            <summary style='cursor:pointer'>Imagen Pixelada</summary>
+            <code> $ submit Rauch </code>
+        </details> <br>
+        <details>
+            <span>apretar las teclas</span><br>
+            <code> $ ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️</code>
+            <summary style='cursor:pointer'>Código Secreto Konami</summary>
+        </details> <br>
+        <details>
+            <summary style='cursor:pointer'>Mail con fecha</summary>
+            <code>  $ submit 2023-12-01 </code>
+        </details>
+    </details><br>
     <details>
-        <span>apretar las teclas</span><br>
-        <code> $ ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️</code>
-        <summary style='cursor:pointer'>Código Secreto Konami</summary>
-    </details> <br>
-    <details>
-        <summary style='cursor:pointer'>Mail con fecha</summary>
-        <code>  $ submit 2023-12-01 </code>
-    </details>
+        <summary style='cursor:pointer'>2° Semana</summary> <br>
+        <details>
+            <summary style='cursor:pointer'>Mail n°2</summary>
+            <code> $ submit HTML </code>
+        </details> <br>
+        <details>
+            <code> $ submit </code>
+            <summary style='cursor:pointer'></summary>
+        </details> <br>
+        <details>
+            <summary style='cursor:pointer'></summary>
+            <code>  $ submit </code>
+        </details>
+    </details><br>
 </details>
 
