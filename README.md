@@ -44,6 +44,11 @@
 - Leemos el acertijo del mail 2 (es muy muy, pero muy fácil)
 - Recordá ponerlo en mayúsculas
 
+`Abrir CANGELOG.txt`
+- Las palabras mágica más famosa del mundo, escribirla toda junta
+- Para desbloquear el logo del confetti hay que mandarlo muchas veces
+
+
 
 
 
@@ -84,9 +89,28 @@
             <code> $ submit HTML </code>
         </details> <br>
         <details>
-            <code> $ submit </code>
-            <summary style='cursor:pointer'></summary>
+            <summary style='cursor:pointer'>Confetti</summary>
+            <code> $ submit confetti</code>
         </details> <br>
+        <details>
+            <summary style='cursor:pointer'>Palabra mágica</summary>
+            <code>  $ submit abracadabra</code>
+        </details>
+    </details><br>
+    <details>
+        <summary style='cursor:pointer'>3° Semana</summary> <br>
+        <details>
+            <summary style='cursor:pointer'>Mail n°3</summary>
+            <code> $ sudo nljzuyfzb </code>
+        </details> <br>
+        <details>
+            <summary style='cursor:pointer'>ai.webp (imagen pixelada)</summary>
+            <code> $ submit altman</code>
+        </details> <br>
+        <details>
+            <summary style='cursor:pointer'>log_mars_mission.txt</summary>
+            <code>  $ submit majortom</code>
+        </details>
         <details>
             <summary style='cursor:pointer'></summary>
             <code>  $ submit </code>

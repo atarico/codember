@@ -1,6 +1,6 @@
+const codeToCrack = '&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@@####@@@@@@@@@#########&#&##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@&'
 const miniCompilador = (secretMessage) => {
     let initialMessage = 0;
-
     return secretMessage
         .split('')
         .reduce((result, symbol) => {
@@ -16,4 +16,4 @@ const miniCompilador = (secretMessage) => {
             return result;
         }, '');
 };
-console.log(miniCompilador('&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@@####@@@@@@@@@#########&#&##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@&'));
+console.log(miniCompilador(codeToCrack));

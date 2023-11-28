@@ -36,3 +36,17 @@ https://codember.dev/data/message_02.txt
 ```js 
 submit 024899488
 ```
+
+
+### Como lo pense
+
+- --> Armar la función a la que se le pase un msj como parámetro <br>
+- --> Inicializo una variable en 0 porque el msj puede imprimir un número inicial o devolver diferentes números<br>
+
+`Descifrar el mensaje` <br>
+- --> Separo cada carácter<br>
+- --> Armo la iteración con un acumulador y los símbolos<br>
+
+`para obtener la solución` <br>
+- --> si el símbolo coincide, le asigno un valor y lo agrego a la variable inicial<br>
+- --> Una vez chequeado todos los casos retorno el resultado<br>
