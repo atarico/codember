@@ -48,6 +48,24 @@
 - Las palabras mágica más famosa del mundo, escribirla toda junta
 - Para desbloquear el logo del confetti hay que mandarlo muchas veces
 
+# Tercer Semana
+
+`El mail`
+- Para resolver esto debemos primero tener el desafío resuelto
+- Nos movemos a la carpeta `Private 🔓`
+
+`Imagen pixelada`
+- CEO, ex CEO y CEO otra vez de la empresa de AI mas importante actualmente
+- Recordar que solo pide el `last-name`
+
+`Mensaje desde marte`
+- Mensaje del Mayor Tom
+- hay que responderle
+- dentro del mensaje está la respuesta
+
+`Girar la web`
+- Abrir el CHANGELOG.txt
+- Este te da un nuevo comando y la instrucción media camuflada
 
 
 
@@ -110,10 +128,10 @@
         <details>
             <summary style='cursor:pointer'>log_mars_mission.txt</summary>
             <code>  $ submit majortom</code>
-        </details>
+        </details><br>
         <details>
-            <summary style='cursor:pointer'></summary>
-            <code>  $ submit </code>
+            <summary style='cursor:pointer'>Comando go</summary>
+            <code>  $ go barrel roll </code>
         </details>
     </details><br>
 </details>
